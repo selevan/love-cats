@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+    font-family: helvetica;
+    background-color: navy;
+    ;
+}
+
+header
+{
+    font-size: large;
+    color: aqua;
+    border-style: dotted;
+    border-color: white;
+    padding: 15px;
+}
+
+main
+{
+    font-size: medium;
+    color: white;
+}
+footer
+{
+    padding:5px;
+}
